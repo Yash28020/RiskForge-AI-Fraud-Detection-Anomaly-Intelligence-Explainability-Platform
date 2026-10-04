@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ SentinelML — Fraud Detection & Explainability Platform
+# 🛡️ RiskForge AI — Fraud Detection, Anomaly Intelligence & Explainability Platform
 
 ### An end-to-end ML system that catches credit-card fraud, explains *why* in SHAP values, translates that into plain English, and serves it all behind a hardened, key-gated API.
 
